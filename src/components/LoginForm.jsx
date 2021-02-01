@@ -34,6 +34,7 @@ const LoginForm = () => {
                             <span>Let's Start Chatting</span>
                         </button>
                     </div>
+                    <h2 className="error">{error}</h2>
                 </form>
             </div>
         </div>
